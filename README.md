@@ -76,15 +76,9 @@ The diagrams on the left map **number of turnovers** against ***career length***
 
 #### Traded Categorical Analysis
 
-We added in this categorical variable to show whether or not the player was traded for each of his first three seasons.
+We added in a categorical variable to show whether or not the player was traded for each of his first three seasons.  Being traded has a negative impact on career length. Generally, NBA teams have held onto draft picks that they feel will pan out and have good, long careers.
 
-The scatter plots below categorically plot whether or not a player was traded in that year. It shows a negative correlation on the impact it will have on the player's career.  The left plot is a player's first year, the middle plot is the player's second year, and the third plot is a player's third year.
-
-![Traded Categorical Analysis](traded3.png)
-
-As we expected, being traded had a negative impact on career length. Generally, NBA teams have held onto draft picks that they feel will pan out and have good, long careers.
-
-**NOTE:** This linear representation is not the best indicator to understand the data.  Future revisitation of this project will provide a histogram visualization and analysis of the distribution of career length for traded and untraded players 
+Future revisitation of this project will provide a histogram visualization and analysis of the distribution of career length for traded and untraded players.  
 
 #### Rookie Year Age and Career Length's Over Time
 
