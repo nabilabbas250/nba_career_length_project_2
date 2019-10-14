@@ -26,6 +26,7 @@ Below you can find the output values of our model as well as an explanation of h
 
 
 ![OLS Test](OLS.png)
+
 The important values to take note of are the **R-Squared** and **Adjusted R-Squared** values.  Ideally the returns for those values would be closer to ***one*** indicating the linear regression model replicates observed outcomes well. 
 
 
